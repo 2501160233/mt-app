@@ -1,4 +1,4 @@
-<template>
+﻿<template>
     <div class="shopcart">
     
          <!-- 底部左侧 -->
@@ -199,7 +199,7 @@ export default {
 	color: #BAB9B9;
 	line-height: 51px;
 	text-align: center;
-	margin-right: 5px !important;
+	margin-right: 0px !important;
 }
 .shopcart .content-right.highlight{
     background-color: orange;
